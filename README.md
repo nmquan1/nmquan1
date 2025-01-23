@@ -2,22 +2,15 @@
 
 ###
 
-<p align="left">My name is James Nguyen, a developer from Viet Nam. I love Machine Learning, especially its application in Games. Love to connect with you!<br><br>✨ Creating bugs and countless system crashes since 2021<br>📚 I'm currently learning Machine Learning for Games<br>🎯 Goals: at least 1k meaningful commits this year<br>🎲 Fun fact: I'm a gacha game addict (surprise surprise) <br><br>Reach me:</p>
+<p align="left">My name is James Nguyen, a developer from Viet Nam. I love Machine Learning, especially its application in Games. Love to connect with you!<br><br>✨ Creating bugs and countless system crashes since 2021<br>📚 I'm currently learning Machine Learning for Games<br>🎯 Goals: at least 1k meaningful commits this year<br>🎲 Fun fact: I'm a gacha game addict (surprise surprise) </p>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/nmquan1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nmquan1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
 </div>
 
 ###
-
 <h2 align="left">Languages and Tools</h2>
 
 ###
@@ -63,11 +56,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
 </div>
+<h2 align="left">Reach me: </h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nmquan1/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="microsoft-outlook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
+</div>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmquan1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
-</div>
+
+
+###
+
+
 
 ###
