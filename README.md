@@ -1,4 +1,8 @@
-<h1 align="left">Hey there👋 Glad to see you here</h1>
+<h3 align="left">Hello, James here :></h3>
+
+###
+
+<p align="left">My name is James Nguyen, a developer from Viet Nam. I love Machine Learning, especially its application in Games. Love to connect with you!<br><br>✨ Creating bugs and countless system crashes since 2021<br>📚 I'm currently learning Machine Learning for Games<br>🎯 Goals: at least 1k meaningful commits this year<br>🎲 Fun fact: I'm a gacha game addict (surprise surprise) <br><br>Reach me:</p>
 
 ###
 
@@ -14,19 +18,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">My name is James Nguyen, a developer from Viet Nam. I love Machine Learning, especially its application in Games. Love to connect with you!</p>
-
-###
-
-<p align="left">✨ Creating bugs and countless system crashes since 2021<br>📚 I'm currently learning Machine Learning for Games<br>🎯 Goals: at least 1k meaningful commits this year<br>🎲 Fun fact: I'm a gacha game addict (surprise surprise)</p>
-
-###
-
-<h2 align="left">I code with</h2>
+<h3 align="left">Languages and Tools</h3>
 
 ###
 
@@ -34,7 +26,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -54,10 +46,12 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -66,8 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
 ###
@@ -76,7 +68,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
@@ -89,8 +81,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmquan1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nmquan1&radius=16&theme=nightowl&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nmquan1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
 </div>
 
 ###
