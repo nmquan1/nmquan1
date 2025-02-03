@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is James Nguyen, a developer from Viet Nam. I love Machine Learning, especially its application in Games. Love to connect with you!<br><br>✨ Creating bugs and countless system crashes since 2021<br>📚 I'm currently learning Machine Learning for Games<br>🎯 Goals: at least 1k meaningful commits this year<br>🎲 Fun fact: I'm a gacha game addict (surprise surprise)</p>
+<p align="left">My name is James Nguyen, a developer from Viet Nam. I love Machine Learning, especially its application in Games. Eager to connect!<br><br>✨ Creating bugs and countless system crashes since 2021<br>📚 I'm currently learning Machine Learning for Games<br>🎯 Goals: at least 1k meaningful commits this year<br>🎲 Fun fact: I'm a gacha game addict (surprise surprise)</p>
 
 ###
 
