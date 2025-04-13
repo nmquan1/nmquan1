@@ -4,11 +4,6 @@
 
 <p align="left">My name is James Nguyen, a developer from Viet Nam. I love Machine Learning, especially its application in Games. Eager to connect!<br><br>✨ Creating bugs and countless system crashes since 2021<br>📚 I'm currently learning Machine Learning for Games<br>🎯 Goals: at least 1k meaningful commits this year<br>🎲 Fun fact: I'm a gacha game addict (surprise surprise)</p>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nmquan1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1&cache_seconds=86400" height="175" alt="stats graph"  />
-</div>
 
 ###
 
